@@ -1,0 +1,6 @@
+{
+"username": "admin",
+"accesstoken": "123345678iuhgfdsdfghjkmnbvcxdw1234567yu",
+"uid": "1234567890",
+"refreshtoken": "1234rdfcvbnjjuytrew34567yujjhnbvc"
+}
