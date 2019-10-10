@@ -1,6 +1,6 @@
 # VIPER_IOS
 
-![VIPER Architecture](/Users/m.ahmed/Desktop/Viper.png)
+![VIPER Architecture](https://github.com/mushtaque87/VIPER_IOS/blob/master/VIPER_IOS/VIPER_IOS/Resources/Viper.png)
 
 
 
